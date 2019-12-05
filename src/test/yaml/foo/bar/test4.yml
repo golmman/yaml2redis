@@ -1,0 +1,9 @@
+test:
+  some:
+    thing: Hello Test4
+    array4:
+      - string1
+      - text
+  test4:
+    foo: 1
+    bar: two

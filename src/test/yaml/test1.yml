@@ -1,0 +1,8 @@
+test:
+  some:
+    array1:
+      - string1
+      - text
+  test1:
+    foo: 1
+    bar: two
